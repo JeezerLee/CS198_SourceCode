@@ -13,4 +13,8 @@ This repository shows all the code and data used for this project.
 
  These are all found in the repository's `dataset` directory, 
 
- - As indicated in the notebook for fine-tuning (`198_2_Fine-tuning_for_RE_.ipynb`), each model during the grid search was saved. However, due to memory constraints, 
+ - As indicated in the notebook for fine-tuning (`198_2_Fine-tuning_for_RE_.ipynb`), each model during the grid search was saved. However, due to memory constraints, these models (about 20 and areound 400MB each, exceeding Github's upload limit) would not be directly uploaded here in Github, but rather navigate to this link to access the fine-tuned models:
+
+    https://drive.google.com/drive/folders/1TzdlKumoY9UIbs7BUWFzhJjFLGDUaXrr?usp=sharing
+
+- If the drive folder containing the trained models is not accessbile, feel free to reach out for access.
