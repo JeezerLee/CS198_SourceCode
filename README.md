@@ -18,3 +18,6 @@ This repository shows all the code and data used for this project.
     https://drive.google.com/drive/folders/1TzdlKumoY9UIbs7BUWFzhJjFLGDUaXrr?usp=sharing
 
 - If the drive folder containing the trained models is not accessbile, feel free to reach out for access.
+
+
+- *Thank you for reading!*
