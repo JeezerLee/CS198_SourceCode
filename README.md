@@ -1,4 +1,4 @@
-# CS198 CVMIL Source Code
+# CS198: NLP for Biodiversity Source Code
 - Jeezer Lee
 - *Adviser: Prof. Roselyn Gabud*
 
