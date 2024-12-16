@@ -1,5 +1,6 @@
 # CS198 CVMIL Source Code
 - Jeezer Lee
+- *Adviser: Prof. Roselyn Gabud*
 
 ## Overview
 This repository shows all the code and data used for this project.
